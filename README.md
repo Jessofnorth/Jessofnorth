@@ -1,6 +1,6 @@
 # Hello!
 ## Welcome to my GitHub
-I'm Jessica, a web dev student at Mid Sweden University. 
+I'm Jessica Ejelöv, a web dev student at Mid Sweden University. 
 
 ### The classes I'm currently  studying: 
 - Database Systems
