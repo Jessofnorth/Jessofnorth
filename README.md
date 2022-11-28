@@ -1,5 +1,6 @@
 # Hello!
 I'm Jessica Ejelöv, a fullstack student at Mid Sweden University. 
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/jessica-ejelov)
 
 ## I have experience in:
