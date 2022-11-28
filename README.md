@@ -54,4 +54,4 @@ I'm Jessica Ejelöv, a fullstack student at Mid Sweden University.
   </p>
 
 
-Contact: jeej2100@studenter.miun.se
+Contact: jessicaejelov@gmail.com
