@@ -1,12 +1,6 @@
 # Hello!
-## Welcome to my GitHub
-I'm Jessica Ejelöv, a web dev student at Mid Sweden University. 
-
-### The classes I'm currently  studying: 
-- Web Development III
-
-- Web Design for CMS
-
+I'm Jessica Ejelöv, a fullstack student at Mid Sweden University. 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/jessica-ejelov)
 
 ### Finished classes: 
 - Web Development I
