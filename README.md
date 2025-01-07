@@ -2,7 +2,10 @@
 
 :raising_hand_woman: - I'm Jessica Ejelöv from Umeå Sweden. 
 
-:mortar_board: - I have a Fullstack degree from Mid Sweden University. Since my graduation in June 2023 I have explored he world of App Development with Flutter and Java. Currently working as an Service Desk Technician. 
+:mortar_board: - I have a Fullstack degree from Mid Sweden University. Since my graduation in June 2023 I have explored he world of App Development with Flutter and Java. 
+
+:school_satchel: - Currently working as an Service Desk Technician. 
+
 :computer: - Reach out! https://www.linkedin.com/in/jessica-ejelov/
 
 
